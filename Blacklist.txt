@@ -1,1 +1,43 @@
-TBD
+# # # # # # # #
+# MiBand
+# # # # # # # #
+
+# Source: https://kevingrahl.de/article/mi-band-4-review
+# Facebook's APIs 
+graph.facebook.com 
+star.c10r.facebook.com 
+
+# Tencent's QQ Fusion API
+fusion.qq.com 
+cgi.connect.qq.com 
+
+# In the payload of this request is a key called data_json that contains all the recent band data
+# Source: https://horiaconstantin.com/xiaomi-miband3-and-privacy/
+api-mifit-de.huami.com 
+api-mifit.huami.com 
+
+# Chinese version of Google Maps called AutoNavi which belongs to the Alibaba Group. 
+restapi.amap.com.gds.alibabadns.com 
+restapi.amap.com 
+logs.amap.com
+
+# # # # # # # #
+# LG SuperSmart TV
+# # # # # # # #
+
+cz.lgtvsdp.com
+cz.info.lgsmartad.com
+lgtvonline.lge.com
+ 
+# # # # # # # #
+# MIUI
+# # # # # # # #
+
+tracking.india.miui.com
+f5.market.xiaomi.com
+register.xmpush.xiaomi.com
+
+# # # # # # # #
+# FL Studio
+# # # # # # # #
+flstudiorss.e-officedirect.com
