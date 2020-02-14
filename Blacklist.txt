@@ -4,8 +4,8 @@
 
 # Source: https://kevingrahl.de/article/mi-band-4-review
 # Facebook's APIs 
-graph.facebook.com 
-star.c10r.facebook.com 
+# graph.facebook.com 
+# star.c10r.facebook.com 
 
 # Tencent's QQ Fusion API
 fusion.qq.com 
