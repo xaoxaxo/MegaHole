@@ -13,7 +13,7 @@ cgi.connect.qq.com
 
 # In the payload of this request is a key called data_json that contains all the recent band data
 # Source: https://horiaconstantin.com/xiaomi-miband3-and-privacy/
-api-mifit-de.huami.com 
+# api-mifit-de.huami.com :(
 api-mifit.huami.com 
 
 # Chinese version of Google Maps called AutoNavi which belongs to the Alibaba Group. 
