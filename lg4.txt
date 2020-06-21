@@ -1,0 +1,12 @@
+    
+# # # # # # # #
+# LG SuperSmart TV
+# # # # # # # #
+
+(.*)\.lgtvsdp\.(.*)
+(.*)\.lgsmartad\.(.*)
+(.*)\.lge\.(.*)
+(.*)\.giraffic\.(.*)
+facebook.com
+google.com
+yahoo.com
