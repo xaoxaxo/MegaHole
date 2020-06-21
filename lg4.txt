@@ -1,8 +1,6 @@
-    
 # # # # # # # #
 # LG SuperSmart TV
 # # # # # # # #
-
 *.lgtvsdp.com
 *.lgsmartad.com
 *.lge.com
