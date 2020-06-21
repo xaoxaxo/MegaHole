@@ -22,14 +22,7 @@ restapi.amap.com
 logs.amap.com
 abroad.apilocate.amap.com
 
-# # # # # # # #
-# LG SuperSmart TV
-# # # # # # # #
 
-cz.lgtvsdp.com
-cz.info.lgsmartad.com
-lgtvonline.lge.com
-snu.lge.com
  
 # # # # # # # #
 # MIUI
