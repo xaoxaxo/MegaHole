@@ -3,10 +3,11 @@
 # LG SuperSmart TV
 # # # # # # # #
 
-(.*)\.lgtvsdp\.(.*)
-(.*)\.lgsmartad\.(.*)
-(.*)\.lge\.(.*)
-(.*)\.giraffic\.(.*)
+*.lgtvsdp.com
+*.lgsmartad.com
+*.lge.com
+*.giraffic.com
+*.giraffic.net
 facebook.com
 google.com
 yahoo.com
