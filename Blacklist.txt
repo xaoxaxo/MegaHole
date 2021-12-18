@@ -59,10 +59,10 @@ yumenetworks.com
 aic-ngfts.lge.com
 
 (\.|^)lgsmartplatform\.com$
-(\.|^)ueiwsp.com
+(\.|^)ueiwsp.com$
 discovery.meethue.com
 images-2.wuaki.tv
-(\.|^)lgtvcommon.com
+(\.|^)lgtvcommon.com$
 textsecure-service.whispersystems.org
 
 # # # # # # # #
