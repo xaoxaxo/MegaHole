@@ -40,29 +40,28 @@ collector-hpn.ghostery.net
 # # # # # # # #
 # LT TV
 # # # # # # # #
-(\.|^)nflxext\.com$			
-(\.|^)lge\.com$			
-(\.|^)lgsmartad\.com$			
-(\.|^)lgtvsdp\.com$			
-(\.|^)giraffic\.com$
-(\.|^)giraffic\.net$
+# (\.|^)nflxext\.com$			
+# (\.|^)lge\.com$			
+# (\.|^)lgsmartad\.com$			
+# (\.|^)lgtvsdp\.com$			
+# (\.|^)giraffic\.com$
+# (\.|^)giraffic\.net$
+# (^|\.)ibs\.lgappstv\.com
+# ^[a-z]{11,15}$
+# (\.|^)lgsmartplatform\.com$
+# (\.|^)ueiwsp\.com$
+# (\.|^)lgtvcommon\.com$
+# the wildcards are not taken from extern source
 
-(^|\.)ibs\.lgappstv\.com
-^[a-z]{11,15}$
 lgad.cjpowercast.com
 edgesuite.net
-
 ad.lgappstv.com
 smartclip.com
 smartclip.net
 yumenetworks.com
 aic-ngfts.lge.com
-
-(\.|^)lgsmartplatform\.com$
-(\.|^)ueiwsp\.com$
 discovery.meethue.com
 images-2.wuaki.tv
-(\.|^)lgtvcommon\.com$
 textsecure-service.whispersystems.org
 
 # # # # # # # #
