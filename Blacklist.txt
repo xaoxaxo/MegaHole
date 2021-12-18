@@ -33,11 +33,33 @@ f5.market.xiaomi.com
 register.xmpush.xiaomi.com
 
 # # # # # # # #
-# Other
+# LT TV
 # # # # # # # #
 test.giraffic.com
 collector-hpn.ghostery.net
 assets.nflxext.com
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+^[a-z]{11,15}$
+ngfts.lge.com
+lgad.cjpowercast.com
+edgesuite.net
+
+# Additional domains:
+ad.lgappstv.com
+smartclip.com
+smartclip.net
+us.ibs.lgappstv.com
+(\.|^)lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+
+(\.|^)lgsmartplatform\.com$
+www.ueiwsp.com
+discovery.meethue.com
+images-2.wuaki.tv
+eic.homeprv.lgtvcommon.com
+textsecure-service.whispersystems.org
 
 # # # # # # # #
 # FL Studio
